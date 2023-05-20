@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     padding: 20px;
-    background: #fff;
+    background: lightgrey;
 
     display: flex;
     flex-direction: column;
@@ -12,7 +12,7 @@ body {
     height: 100%;
 }
   .maincontainer h1{
-    color:#fff;
+    color: darkorange;
     text-align: center;
   }
   form label {
